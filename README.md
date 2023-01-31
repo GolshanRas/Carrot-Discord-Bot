@@ -1,4 +1,5 @@
-# Carrot-Discord-Bot
-RU Hacks 2022: Discord bot that advocates for mental and physical health. Carrot aims to educate and help individuals with their mental and physical health by making resources accessible to users. 
+# Carrot
+RU Hacks 2022: Digital:
+Discord bot that aims to help as well as educate individuals with their mental and physical health.
 
-Coded with love by Golshan Rasoulzadeh, Nathan Kim, Eric Sun and Simon Feng.
+Coded with love by Nathan Kim, Eric Sun, Golshan Rasoulzadeh and Simon Feng.
